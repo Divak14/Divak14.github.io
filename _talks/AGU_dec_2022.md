@@ -1,7 +1,7 @@
 ---
 title: "Passive Microwave remote sensing of soil moisture below snowpack using SMAP L-band Observations"
-collection: AGU fall meeting 2022
-type: "Talk"
+collection: talks
+type: "AGU fall meeting 2022"
 permalink: /talks/2012-03-01-talk-1
 venue: "Chicago, USA"
 date: 2022-12-12
